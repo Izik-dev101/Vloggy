@@ -7,7 +7,7 @@
                     <h2>My Profile</h2>
                     <p>We are happy to see you again !</p>
                 </article>
-            <?php UpdateProfile(); ?>
+            <?php  UpdateProfile();?>
             <?php ChangePassword(); ?>
             <?php getprofile(); ?>
                 <!-- <div id="profile-div1">
